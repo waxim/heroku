@@ -2,4 +2,4 @@
 
   require "vendor/autoload.php";
   
-  Encore\Say::hello();
+  print Encore\Say::hello();
